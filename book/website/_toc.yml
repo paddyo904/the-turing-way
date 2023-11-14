@@ -275,23 +275,25 @@ parts:
                 file: project-design/pd-overview/pd-overview-version
               - title: Sharing Your Research Work
                 file: project-design/pd-overview/pd-overview-sharing
-          - title: Project Design Checklist
-            file: project-design/pd-checklist
-          - title: Creating Project Repositories
-            file: project-design/project-repo
+          - caption: Project Setup and Organisation
             sections:
-              - title: Landing Page - README File
-                file: project-design/project-repo/project-repo-readme
-              - title: Roadmapping
-                file: project-design/project-repo/project-repo-roadmapping
-              - title: Contributors and Communication Pathways
-                file: project-design/project-repo/project-repo-contributors
-              - title: Participation Guidelines
-                file: project-design/project-repo/project-repo-participation
-              - title: Advanced Structure for Data Analysis
-                file: project-design/project-repo/project-repo-advanced
-              - title: Further Recommendations
-                file: project-design/project-repo/project-repo-resources
+              - title: Project Design Checklist
+                file: project-design/pd-checklist
+              - title: Creating Project Repositories
+                file: project-design/project-repo
+                sections:
+                 - title: Landing Page - README File
+                   file: project-design/project-repo/project-repo-readme
+                 - title: Roadmapping
+                   file: project-design/project-repo/project-repo-roadmapping
+                 - title: Contributors and Communication Pathways
+                   file: project-design/project-repo/project-repo-contributors
+                 - title: Participation Guidelines
+                   file: project-design/project-repo/project-repo-participation
+                 - title: Advanced Structure for Data Analysis
+                   file: project-design/project-repo/project-repo-advanced
+                 - title: Further Recommendations
+                   file: project-design/project-repo/project-repo-resources
           - title: Personas and Pathways
             file: project-design/persona
             sections:
