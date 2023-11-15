@@ -275,7 +275,7 @@ parts:
                 file: project-design/pd-overview/pd-overview-version
               - title: Sharing Your Research Work
                 file: project-design/pd-overview/pd-overview-sharing
-          - caption: Project Setup and Organisation
+          - title: Project Setup and Organisation
             sections:
               - title: Project Design Checklist
                 file: project-design/pd-checklist
