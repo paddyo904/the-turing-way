@@ -320,7 +320,7 @@ parts:
                      - title: Code Styling Tools
                        file: project-design/info-management/code-styling/code-styling-tools
           - title: Data Security and Governance
-            file: project-design/data-security/sdp
+            file: project-design/data-security
             sections:
                  - title: Sensitive Data Projects
                    file: project-design/sdp
