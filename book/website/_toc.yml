@@ -302,9 +302,9 @@ parts:
                    file: project-design/stakeholders/persona
                    sections:
                      - title: Persona Creation Tool
-                       file: project-design/persona/persona-creation
+                       file: project-design/stakeholders/persona/persona-creation
                      - title: Contributor Pathways
-                       file: project-design/persona/persona-contributors
+                       file: project-design/stakeholders/persona/persona-contributors
           - title: Information Management
             file: project-design/info-management
             sections:
@@ -326,50 +326,50 @@ parts:
                    file: project-design/sdp
                    sections:
                      - title: Types of Sensitive Data
-                       file: project-design/sdp/types
+                       file: project-design/data-security/sdp/types
                      - title: Personal Data
-                       file: project-design/sdp/personal
+                       file: project-design/data-security/sdp/personal
                      - title: Confidential Data
-                       file: project-design/sdp/confidential
+                       file: project-design/data-security/sdp/confidential
                      - title: Biological Data
-                       file: project-design/sdp/biological
+                       file: project-design/data-security/sdp/biological
                      - title: Metadata
-                       file: project-design/sdp/metadata
+                       file: project-design/data-security/sdp/metadata
                      - title: Combined Datasets
-                       file: project-design/sdp/combined
+                       file: project-design/data-security/sdp/combined
                  - title: Managing Sensitive Data Projects
-                   file: project-design/sdpm
+                   file: project-design/data-security/sdpm
                    sections:
                      - title: Informed consent
-                       file: project-design/sdpm/informed
+                       file: project-design/data-security/sdpm/informed
                      - title: Data Privacy Strategies
-                       file: project-design/sdpm/data-privacy-strategies
+                       file: project-design/data-security/sdpm/data-privacy-strategies
                      - title: Sharing Sensitive Data
-                       file: project-design/sdpm/sharing-sensitive-data
+                       file: project-design/data-security/sdpm/sharing-sensitive-data
                      - title: Resources
-                       file: project-design/sdpm/resources
+                       file: project-design/data-security/sdpm/resources
                  - title: Working on Sensitive Data Projects
-                   file: project-design/sdpw
+                   file: project-design/data-security/sdpw
                    sections:
                      - title: Working with Trusted Research Environments
-                       file: project-design/sdpw/trew
+                       file: project-design/data-security/sdpw/trew
                      - title: Privacy Preserving Machine Learning
-                       file: project-design/sdpw/pd-sdp-private-learning
+                       file: project-design/data-security/sdpw/pd-sdp-private-learning
                      - title: Keeping Sensitive Files Secure
-                       file: project-design/sdpw/pd-sdp-sensitive-files
+                       file: project-design/data-security/sdpw/pd-sdp-sensitive-files
                      - title: Sharing Your Jupyter Notebook
-                       file: project-design/sdpw/pd-sdp-sensitive-code
+                       file: project-design/data-security/sdpw/pd-sdp-sensitive-code
                      - title: Removing Sensitive Data From GitHub
-                       file: project-design/sdpw/pd-sdp-exposing-data
+                       file: project-design/data-security/sdpw/pd-sdp-exposing-data
                      - title: Further Recommendations
-                       file: project-design/sdpw/pd-sdp-resources
+                       file: project-design/data-security/sdpw/pd-sdp-resources
                  - title: Data Governance
-                   file: project-design/data-governance
+                   file: project-design/data-security/data-governance
                    sections:
                      - title: Data Governance for the Machine Learning Pipeline
-                       file: project-design/data-governance/data-gov-ml
+                       file: project-design/data-security/data-governance/data-gov-ml
                      - title: BigCode Data Governance Case Study
-                       file: project-design/data-governance/bigcode_casestudy
+                       file: project-design/data-security/data-governance/bigcode_casestudy
   
       # ===== Guide for Communication ========================================
 
