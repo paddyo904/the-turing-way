@@ -46,7 +46,7 @@ Writing tests to do it for you is the time-saving option, and it's the safe opti
 As researchers write code they generally do some tests as they go along, often by adding in print statements and checking the output.
 However, these tests are often thrown away as soon as they pass and are no longer present to check what they were intended to check.
 It is comparatively very little work to place these tests in functions and keep them so they can be run at any time in the future.
-The additional labour is minimal, the time saved and safeguards provided are invaluable.
+The additional labour is minimal, the time saved and safeguards provided are invaluable for researchers.
 Further, by formalising the testing process into a suite of tests that can be run independently and automatically, you provide a much greater degree of confidence that the software behaves correctly and increase the likelihood that defects will be found.
 
 Testing also affords researchers much more peace of mind when working on/improving a project.
